@@ -1,0 +1,17 @@
+{
+  "name": "nash-cypress",
+  "version": "1.0.0",
+  "description": "cypress education and research",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^8.4.1"
+  },
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8"
+  },
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Nash Stewart",
+  "license": "ISC"
+}

@@ -348,3 +348,10 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# NPM Package
+package-lock.json
+
+# Desktop Services Store for Mac OS X
+.DS_Store
+
